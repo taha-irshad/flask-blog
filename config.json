@@ -1,0 +1,16 @@
+{
+    "params": {
+        "local_server": true,
+        "local_uri": "mysql://root:@localhost/first_db",
+        "prod_uri": "mysql://root:@localhost/first_db",
+        "postsShow": 3,
+        "fb_url": "https://facebook.com/",
+        "tw_url": "https://twitter.com/",
+        "gh_url": "https://github.com/",
+        "gmail_user": "your-email@email.com",
+        "gmail_pass": "your-pass-here",
+        "admin_user": "taha",
+        "admin_pass": "taha123",
+        "upload_loc": "D:\\Taha\\Python Projects\\Flask Learning With Harry\\static"
+    }
+}
